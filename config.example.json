@@ -1,0 +1,17 @@
+{
+  "azure_client_id": "여기에-Azure-앱-등록의-애플리케이션(클라이언트)-ID",
+  "azure_authority": "https://login.microsoftonline.com/common",
+  "anthropic_api_key": "",
+  "claude_model": "claude-opus-5",
+  "project_name": "지멘스 대응",
+  "project_backend": "todo",
+  "planner_plan_id": "",
+  "planner_bucket_name": "공문 접수",
+  "upload_to_onedrive": true,
+  "output_dir": "output",
+  "days": 3,
+  "sender_domain_keywords": ["siemens"],
+  "text_keywords": ["지멘스", "siemens"],
+  "letter_keywords": ["공문", "letter", "notice", "notification", "claim", "통지", "요청", "회신"],
+  "only_with_attachments": false
+}
